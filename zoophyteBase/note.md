@@ -6,7 +6,7 @@ and by usage of BLAST and HMMER sequence similarity search tools.[\[2\]](https:/
 
 **intro**
 
-The protein sequences from A. digitifera had update but not update in zoophytebase. ZoophyteBase provide comphrehensive kegg information of coral A. digitifera. However the web database doesn't fit my purpose of downloading all sequences at once. I found python selenium tools, powerful automates browsers,can do all the clicking for me.
+The protein sequences from A. digitifera had update but not been updated in zoophytebase. ZoophyteBase provides comphrehensive kegg information of coral A. digitifera. However the web database doesn't fit my purpose of downloading all sequences at once. I found python selenium tools, powerful automates browsers,it does all the clicking for me.
 
 
 REF for using selenium:
