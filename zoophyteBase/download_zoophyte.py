@@ -13,7 +13,7 @@ chromeoptions = webdriver.ChromeOptions()
 prefs = {'profile.default_content_settings.popups':0,'download.default_directory': query_dir}
 chromeoptions.add_experimental_option('prefs',prefs)
 # chromedriver has to be in system path.
-chromedriver = "/Users/jc502059/local/chromedriver"
+chromedriver = "/path/to/chromedriver"
 os.environ["webdriver.chrome.driver"] = chromedriver
 
 #let's go
